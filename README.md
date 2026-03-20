@@ -4,11 +4,15 @@ This will be a project of projects that I intend to start with no knowledge and 
 By doing so, I will gain wisedom, theory and usable skills and with it's culmination, power. *insert evil laugh*
 
 
-Broad categories are below and sub-levels will be added as the project projects.
+Broad categories are below and sub-levels will be added as the various projects project.
 
-1. Websites
+1| Websites
 
-2. Games
+2| Games
 
-3. AI *wow*
-  3(a). Bot building
+3| AI *wow*
+  3.1| Bot building
+
+4| School Projects
+  4.1| CPSC 351
+    4.1.1| 
