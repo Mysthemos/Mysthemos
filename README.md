@@ -1,16 +1,14 @@
-## Hi there 👋
+Wassup World
 
-<!--
-**Mysthemos/Mysthemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This will be a project of projects that I intend to start with no knowledge and end with perfection. (or as close to it as possible)
+By doing so, I will gain wisedom, theory and usable skills and with it's culmination, power. *insert evil laugh*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Broad categories are below and sub-levels will be added as the project projects.
+
+1. Websites
+
+2. Games
+
+3. AI *wow*
+  3(a). Bot building
